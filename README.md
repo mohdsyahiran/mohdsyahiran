@@ -5,7 +5,6 @@
 🌱 Currently I'm still learning and eager to learn more in tech!<br/>
 
 # 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,10 +24,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br/>
-#  📊 GitHub Stats
-🎨 Visit my website on [Saybat](https://saybat.xyz/profile/syahiran)<br/>
-[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsyahiran&show_icons=true&theme=radical)<br/>
+# 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsyahiran&show_icons=true&theme=radical)<br/>
 <!--
 **mohdsyahiran/mohdsyahiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
