@@ -1,4 +1,4 @@
-##👋 Hi, I'm Syahiran
+#👋 Hi, I'm Syahiran
 👩🏻‍💻 Junior Full Stack Developer<br/>
 👩🏻‍🎓 Studied Information Systems Engineering at the Universiti Teknologi MARA (UiTM), Melaka<br/>
 🎨 Visit my website on [Saybat](https://saybat.xyz/profile/syahiran)<br/>
@@ -27,7 +27,7 @@
 
 <br>
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsyahiran&show_icons=true&theme=radical)
+[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsyahiran&show_icons=true&theme=radical)<br/>
 <!--
 **mohdsyahiran/mohdsyahiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
